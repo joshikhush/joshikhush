@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hi, I'm Khushboo Joshi!
+🎓 Final-year Computer Science student | 💻 Full Stack Web Developer
 
-<!--
-**joshikhush/joshikhush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 About Me:
 
-Here are some ideas to get you started:
+🌐 Passionate about web development and problem-solving.
+🚀 Experienced in building responsive and scalable web applications using the MERN stack.
+🔧 Proficient in HTML, CSS, JavaScript, React.js, Node.js, MongoDB, and SQL.
+💬 Open to collaborating on open-source projects and innovative web solutions.
+📖 Always learning new technologies to stay ahead in the tech world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Let's Connect:
+
+💼 LinkedIn: https://www.linkedin.com/in/khushboo-joshi-03953a224/
+💌 Email: khushboojoshi992@gmail.com
+⚡ Fun Fact: I believe in continuous growth, both personally and professionally! 🚀
